@@ -1,3 +1,5 @@
 # prosjekt1
 
 Hei Erik - dette er Prosjekt 1
+
+Yes it is!
