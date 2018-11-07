@@ -1,5 +1,16 @@
-# prosjekt1
+:lang: no
+:doctitle: Prosjekt1
+ifndef::standardheader_included[]
+include::../felles/includes/standardheader.adoc[]
+endif::[]
+
+== prosjekt1 dokumentasjon
+image:i-arbeid.png[width=75, height=75]
 
 Hei Erik - dette er Prosjekt 1
+
+ifdef::test-attributt1[]
+test-attributt1: {test-attributt1}
+endif::[]
 
 Yes it is!
